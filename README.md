@@ -1,5 +1,4 @@
 # Olá! Eu sou Fernanda👋
-**fernanda01cm/fernanda01cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🎓 Estudante de Sistemas de Informação
 💻 Desenvolvedor em formação com foco em HTML
