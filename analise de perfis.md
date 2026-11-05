@@ -16,6 +16,5 @@ Pretendo continuar desenvolvendo projetos e melhorando meu perfil para crescer p
 
 Referências utilizadas
 Rafaella Ballerini .
-Fernanda Kipper .
 Glaucia Lemos .
 Loiane Groner .
